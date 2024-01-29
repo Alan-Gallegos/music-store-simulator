@@ -1,0 +1,171 @@
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\WebCanciones.dll.config
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\WebCanciones.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\WebCanciones.pdb
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csc.exe
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csc.exe.config
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csc.rsp
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csi.exe
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csi.exe.config
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\csi.rsp
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.AppContext.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Collections.Immutable.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Console.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.IO.Compression.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.AccessControl.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Claims.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.ValueTuple.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\vbc.exe
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\vbc.exe.config
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\vbc.rsp
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe.config
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\GestorBD.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\GestorBD.pdb
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csprojAssemblyReference.cache
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.CoreCompileInputs.cache
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.CopyComplete
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\obj\Debug\WebCanciones.dll
+C:\DAI_ITAM\Programas\WebCanciones\WebCanciones\obj\Debug\WebCanciones.pdb
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\WebCanciones.dll.config
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\WebCanciones.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\WebCanciones.pdb
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csc.exe
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csc.exe.config
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csc.rsp
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csi.exe
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csi.exe.config
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\csi.rsp
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.AppContext.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Console.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Claims.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\vbc.exe
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\vbc.exe.config
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\vbc.rsp
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\GestorBD.pdb
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csprojAssemblyReference.cache
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.CoreCompileInputs.cache
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.CopyComplete
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\obj\Debug\WebCanciones.dll
+C:\Users\Josue M\Downloads\WebCanciones\WebCanciones\obj\Debug\WebCanciones.pdb
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\WebCanciones.dll.config
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\WebCanciones.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\WebCanciones.pdb
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csc.exe
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csc.exe.config
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csc.rsp
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csi.exe
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csi.exe.config
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\csi.rsp
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.AppContext.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Collections.Immutable.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Console.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.IO.Compression.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.IO.Pipes.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Reflection.Metadata.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.AccessControl.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Claims.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.ValueTuple.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\vbc.exe
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\vbc.exe.config
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\vbc.rsp
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\roslyn\VBCSCompiler.exe.config
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\GestorBD.pdb
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.AssemblyReference.cache
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\obj\Debug\WebCanciones.csproj.CoreCompileInputs.cache
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\obj\Debug\WebCanciones.dll
+D:\Alan_User\Escritorio\CursosOnline\DAI\WebCanciones\WebCanciones\WebCanciones\obj\Debug\WebCanciones.pdb
